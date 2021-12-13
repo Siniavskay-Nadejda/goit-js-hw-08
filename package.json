@@ -1,9 +1,9 @@
 {
-  "name": "parcel-project-template",
+  "name": "goit-js-hw-08",
   "version": "1.1.0",
-  "description": "",
+  "description": "https://github.com/Siniavskay-Nadejda/goit-js-hw-08/settings",
   "main": "index.js",
-  "homepage": "https://goitacademy.github.io/parcel-project-template",
+  "homepage": "",
   "scripts": {
     "dev": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /parcel-project-template/"

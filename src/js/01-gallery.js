@@ -7,7 +7,7 @@ import { galleryItems } from './gallery-items';
 
 console.log(galleryItems);
 const photoGalleryContainer = document.querySelector(".gallery");
-console.log(photoGalleryContainer);
+// console.log(photoGalleryContainer);
 const photoMarkup = galleryMarkup(galleryItems);
 
 
